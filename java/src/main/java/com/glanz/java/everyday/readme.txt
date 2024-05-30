@@ -3,3 +3,4 @@
 1491. Average Salary Excluding the Minimum and Maximum Salary 24/05/03
 1652. Defuse the Bomb 24/05/03
 2981. Find Longest Special Substring That Occurs Thrice I 24/05/29
+2982. Find Longest Special Substring That Occurs Thrice II 24/05/30
